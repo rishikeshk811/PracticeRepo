@@ -10,7 +10,7 @@ public class Class3Test {
 		System.out.println("mehtod 5 ");
 	}
 	
-	@Test
+	@Test(groups = "smoke")
 	public void method6() {
 		System.out.println("mehtod 6 ");
 	}
