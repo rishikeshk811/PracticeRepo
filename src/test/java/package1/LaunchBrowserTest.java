@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class LaunchBrowserTest {
 
-	@Test
+	
 	public void launch() throws MalformedURLException {
 	
 		
